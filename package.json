@@ -1,0 +1,19 @@
+{
+  "name": "gap-the-mind-storage-js",
+  "version": "0.0.1",
+  "description": "GraphQL repo",
+  "main": "index.js",
+  "author": "Matthieu Dartiguenave <matthieu.dartiguenave@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd --respawn src/server.ts"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5",
+    "ts-node-dev": "^1.0.0-pre.49",
+    "typescript": "^3.9.3"
+  }
+}
